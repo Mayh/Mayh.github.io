@@ -2,17 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My blog</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://mayh.github.io/tags/</link>
     <description>Recent content in Tags on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mayh.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Baby</title>
+      <link>https://mayh.github.io/tags/hello-baby/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mayh.github.io/tags/hello-baby/</guid>
+      
+        <description></description>
+      
+    </item>
+    
     <item>
       <title>Index</title>
-      <link>http://localhost:1313/tags/index/</link>
-      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
+      <link>https://mayh.github.io/tags/index/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/index/</guid>
+      <guid>https://mayh.github.io/tags/index/</guid>
       
         <description></description>
       
@@ -20,21 +31,10 @@
     
     <item>
       <title>عربي</title>
-      <link>http://localhost:1313/tags/%D8%B9%D8%B1%D8%A8%D9%8A/</link>
+      <link>https://mayh.github.io/tags/%D8%B9%D8%B1%D8%A8%D9%8A/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/%D8%B9%D8%B1%D8%A8%D9%8A/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Hello Baby</title>
-      <link>http://localhost:1313/tags/hello-baby/</link>
-      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/hello-baby/</guid>
+      <guid>https://mayh.github.io/tags/%D8%B9%D8%B1%D8%A8%D9%8A/</guid>
       
         <description></description>
       
