@@ -228,12 +228,26 @@
     <loc>http://localhost:1313/english/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/english/home/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/home/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/arabic/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/english/imprint/</loc>
   </url><url>
     <loc>http://localhost:1313/imprint/</loc>
+  </url><url>
+    <loc>http://localhost:1313/cv/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/cv/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/gallery/</loc>
+  </url><url>
+    <loc>http://localhost:1313/gallery/</loc>
   </url><url>
     <loc>http://localhost:1313/english/portfolio/</loc>
   </url><url>

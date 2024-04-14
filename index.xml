@@ -393,6 +393,28 @@
     </item>
     
     <item>
+      <title>Home</title>
+      <link>http://localhost:1313/english/home/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/home/</guid>
+      
+        <description>Hugo, the world&#39;s fastest framework for building websites</description>
+      
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>http://localhost:1313/home/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/home/</guid>
+      
+        <description>Hugo, the world&#39;s fastest framework for building websites</description>
+      
+    </item>
+    
+    <item>
       <title>حول</title>
       <link>http://localhost:1313/arabic/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
@@ -424,6 +446,50 @@ Jane Doe</description>
       
         <description>Legal Disclosure Information in accordance with the applicable law
 Jane Doe</description>
+      
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/cv/</guid>
+      
+        <description>CV</description>
+      
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>http://localhost:1313/english/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/cv/</guid>
+      
+        <description>CV</description>
+      
+    </item>
+    
+    <item>
+      <title>Gallery</title>
+      <link>http://localhost:1313/english/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/gallery/</guid>
+      
+        <description>tourist gallery</description>
+      
+    </item>
+    
+    <item>
+      <title>Gallery</title>
+      <link>http://localhost:1313/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/gallery/</guid>
+      
+        <description>tourist gallery</description>
       
     </item>
     
